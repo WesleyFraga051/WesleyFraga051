@@ -16,7 +16,7 @@
 <div>
 <a href="https://github.com/WesleyFraga051">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WesleyFraga051&layout=donut&langs_count=7&theme=react"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=WesleyFraga051&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=WesleyFraga051&rank_icon=github&theme=react&include_all_commits=true&count_private=true"/>
 </div>
 - Estou aprendendo
 <div>
