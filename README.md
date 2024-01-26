@@ -1,7 +1,7 @@
 # Olá, Sou Wesley Fraga ! 
 ## Seja Bem vindo ao meu perfil GitHub 👋
 - 🔭 Atualmente estou trabalhando Como analista de sistema na empresa Centermastersul
-- 🌱 Estou iniciei como dev a pouco tempo ja  fiz algumas coisa podem acompanhar pelo meu linkedin
+- 🌱 Iniciei como dev a pouco tempo ja  fiz algumas coisa podem acompanhar pelo meu linkedin
 
 - ## Tecnologias e Ferramentas
 <div>
@@ -10,7 +10,7 @@
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/> &nbsp
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/> &nbsp
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg" width="50" height="50"/> &nbsp
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="40" height="40"/> &nbsp
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="60" height="40"/> &nbsp
 </div>
 <br>
 
