@@ -25,5 +25,7 @@
 <div>
 <a href = "lorenzo18042019@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href = "https://www.linkedin.com/in/wesley-fraga-66214723b/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<a href="https://whatsa.me/5551993291256"><img loading="lazy" src="https://imgur.com/TzoAtyi"></a>
+<a href="https://whatsa.me/5551993291256"> <img loading="lazy" src="https://cdn.discordapp.com/attachments/953613153537753148/1200439794157756436/189785.png?ex=65c62fae&is=65b3baae&hm=c598fa523260114f30034e6b47aa7e1437ab0191f736ddd3405f6d209f8b362d&" width="70" height="30">
+</a>
+</div>
 </div>
